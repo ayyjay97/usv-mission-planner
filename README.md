@@ -10,6 +10,8 @@
 
 This project is a simulation and visualization tool for the **A* (A-Star) Pathfinding Algorithm**, a foundational component of autonomy stacks used to calculate optimal routes through a discretized navigation grid. It allows operators to simulate mission parameters, visualize exclusion zones, and determine the most fuel-efficient path for a USV in a cluttered maritime environment.
 
+![USV Mission Picture](usv-mission-picture.png)
+
 ## Key Features
 
 * **A* Pathfinding Algorithm**: Implements the A* search algorithm using the **Manhattan Distance** heuristic, optimized for grid-based maritime navigation where movement is restricted to cardinal directions (Up, Down, Left, Right).
